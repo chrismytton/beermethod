@@ -10,7 +10,7 @@ layout: default
 1. Mash for 60 minutes with the lid on, the temperature should stay around the 66&deg;C mark.
 1. Remove the mesh bag containing the grain from the stock pot, leaving the sweet wort in the stock pot.
 1. Bring the wort to the boil
-1. When boiling add the bittering hops to the stock pot and set a timer for 60 minutes
+1. Once boiling, add the bittering hops to the stock pot and set a timer for 60 minutes
 1. 15 minutes before the end of the boil add the flavouring hops
 1. 5 minutes before the end of the boil add the aroma hops
 1. When the 60 minute boil is finished turn off the heat source and cool the stock pot down in a sink or bath of cold water.
