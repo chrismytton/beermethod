@@ -1,0 +1,23 @@
+---
+# Empty frontmatter so jekyll processes this file
+---
+
+@import "bootstrap";
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+}
+
+.footnotes {
+    font-size: 0.8em;
+    color: #666;
+    padding: 2em 0;
+    margin: 2em 0;
+    border-top: 1px solid #eee;
+}
