@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <p class="lead">These instructions are for making a 10 litre batch of <abbr title="Brew In A Bag">BIAB</abbr> beer.</p>
 
 1. Heat 12.5 litres of water to 71&deg;C in a metal stock pot.
